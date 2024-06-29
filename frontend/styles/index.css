@@ -1,0 +1,31 @@
+body {
+  user-select: none;
+  font-family: arial;
+  margin: 8px;
+  color: white;
+  background-color: black;
+  padding: 0;
+}
+
+.main-conteiner {
+  margin-top:2px;
+  align-items: center;
+}
+
+.aa {
+  font-size: 24px;
+  padding: 6px 12px;
+  margin: 3px 6px;
+  border-radius: 6px;
+  font-weight: bold;
+  background-color: #6c8f24;
+  color: white;
+  text-decoration: none;
+}
+
+.ac {
+  font-size: 32px;
+  font-weight: bold;
+  margin-left: 5px;
+  color: #6c8f24;
+}
